@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_fragment">Inicio de Sesion</string>
+    <string name="title_user">Usuario:</string>
+    <string name="title_pwd">Contraseña:</string>
+    <string name="title_boton">Iniciar Sesion</string>
+    <string name="wellcome_MainAct2">¡Bienvenido!</string>
+</resources>
